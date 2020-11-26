@@ -1,0 +1,17 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := foobar
+Time Created := Thu Nov 26 22:18:42 2020
+Safe Version := safedb-v0.12.109
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+AQeA5LlQhCnll/J65o3uHvTQ/LexwEi5m+fl90BF0OsECKb9s7kzWOrpX0NU
+plyWsJgs9GT5ZWCynsYzqZPXJQF79x3ZWhreR+qA/DQSMGTTLpeqmJcW7V41
+1TXfDxViTVB/2mDXjBX2yztVE98mhJjNBlw2XIi7XVHjBHSRW0szdRyY3aAd
+/MZYZEvVo+90
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
